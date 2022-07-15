@@ -44,7 +44,7 @@ Use a Transformer model like **ViT** instead of **CNN** based model **EfficientN
 
 ## Analysis:
 Let's look at the **Grad-CAM** by **CNN** and **Attention-MAP** by **Transformer**.
-<img src="https://github.com/awsaf49/PetFinder/blob/main/image/cvt-smaller.gif">
+![](/assets/animation/cvt-smaller.gif)
 > It seems that **CNN** is focusing more on facial features due to its `local_receptive_field` whereas **Transformer** is focusing on both facial features and surrounding features due to its `global_receptive_fields`. That could be the reason why **Transformer** is outperforming **CNN**.
 
 **Notes:**
