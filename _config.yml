@@ -21,8 +21,9 @@ use_math: true
 google_analytics: G-XBJVZ3Q271
 
 # Everything below here can be ignored, unless you want to change the theme entirely
-theme: minima
+remote_theme: jekyll/minima
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-gist
   - jekyll-octicons
