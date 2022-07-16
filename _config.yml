@@ -13,12 +13,13 @@ github_username: awsaf49
 # Email and twitter are optional:
 email: awsaf49@gmail.com
 twitter_username: awsaf49
+linkedin_username: awsaf49
 
 # Set this to true to get LaTeX math equation support
 use_math: true
 
 # Add your Google Analytics ID here if you have one and want to use it
-google_analytics: G-XBJVZ3Q271
+google_analytics: UA-234632697-2
 
 # Everything below here can be ignored, unless you want to change the theme entirely
 theme: minima
